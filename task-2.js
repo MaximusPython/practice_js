@@ -5,7 +5,7 @@ function findShort(s){
       p.push(i.length)
   
     }
-    return Math.min.apply(null, p)
+    return Math.min.apply(null, p) 
   }
   
   
